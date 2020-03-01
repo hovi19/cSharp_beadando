@@ -1,0 +1,44 @@
+[albums]
+lp1;Linkin Park;Hybrid Theory;2000-10-24
+lp2;Linkin Park;Meteora;2003-03-25;
+lp3;Linkin Park;Minutes To Midnight;2007-05-14
+[tracks]
+Papercut;3:05;lp1;null
+One Step Closer;2:35;lp1;null
+With You;3:23;lp1;null
+Points of Authority;3:20;lp1;null
+Crawling;3:30;lp1;Gd9OhYroLN0
+Runaway;3:04;lp1;null
+By Myself;3:09;lp1;null
+In the End;3:36;lp1;eVTXPUF4Oz4
+A Place for My Head;3:04;lp1;3t2WkCudwfY
+Forgotten;3:14;lp1;null
+Cure for the Itch;2:37;lp1;null
+Pushing Me Away;3:11;lp1;null
+Foreword;0:13;lp2;null
+Dont Stay;3:07;lp2;null
+Somewhere I Belong;3:33;lp2;null
+Lying from You;2:55;lp2;null
+Hit the Floor; 2:44;lp2;null
+Easier to Run;3:24;lp2;null
+Faint;2:42;lp2;null
+Figure.09;3:17;lp2;LpC0SKU6O00
+Breaking the Habit;3:16;lp2;null
+From the Inside;2:53;lp2;null
+Nobodys Listening;2:57;lp2;null
+Session;2:23;lp2;null
+Numb;3:05;lp2;kXYiU_JCYtU
+Wake;1:42;lp3;null
+Given Up;3:09;lp3;null
+Leave Out All the Rest;3:29;lp3;yZIummTz9mM
+Bleed It Out;2:44;lp3;OnuuYcqhzCE
+Shadow of the Day;4:50;lp3;null
+What Ive Done;3:25;lp3;8sgycukafqQ
+Hands Held High;3:53;lp3;null
+No More Sorrow;3:42;lp3;rW4uBvP2Dqc
+Valentines Day;3:17;lp3;null
+In Between;3:17;lp3;null
+In Pieces;3:38;lp3;null
+The Little Things Give You Away;6:22;lp3;null
+No Roads Left;3:49;lp3;null
+Across The Line;3:12;lp3;null

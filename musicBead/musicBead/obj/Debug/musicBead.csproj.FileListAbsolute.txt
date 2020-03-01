@@ -1,0 +1,11 @@
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\bin\Debug\musicBead.exe.config
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\bin\Debug\musicBead.exe
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\bin\Debug\musicBead.pdb
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\obj\Debug\musicBead.csprojAssemblyReference.cache
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\obj\Debug\musicBead.frmMain.resources
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\obj\Debug\musicBead.Properties.Resources.resources
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\obj\Debug\musicBead.csproj.GenerateResource.cache
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\obj\Debug\musicBead.exe
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\obj\Debug\musicBead.pdb
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\obj\Debug\musicBead.frmURL.resources
+C:\Users\Tökmindegy\source\repos\musicBead\musicBead\obj\Debug\musicBead.FrmEdit.resources
